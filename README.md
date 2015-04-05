@@ -70,9 +70,9 @@ from 2mdn.net:
  * 2mtn.net
  * 3mdn.net
 
-The DNS Server operated for the months of January, February and March for a
+The DNS server operated for the months of January, February and March for a
 total of about 90 days. Additionally, NGINX was used to record and log out all
-HTTP requests.
+HTTP requests. A 404 was returned for every request.
 
 The HTTP logs were analyzed to determine instances of bitsquatting taking place
 (filtering out instances of web-crawlers, exploit scanners, and likely
