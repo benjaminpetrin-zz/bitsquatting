@@ -49,13 +49,13 @@ Other requirements
 
 You will also need to run a webserver that can log all HTTP requests that come
 in over the IP address specified in the DNS server. A simple NGINX
-configuration works well for this
+configuration file works well for this.
 
 Jan-Mar 2015 Results
 -----------
 
 In the beginning of 2015 I purchased 10 variants of the domain 2mdn.net which
-is owned and operated by Google for it's ad network (formerly, DoubleClick).
+is owned and operated by Google for its ad network (formerly, DoubleClick).
 This represents a good slice of the 19 valid domains that are a single bit off
 from 2mdn.net:
 
