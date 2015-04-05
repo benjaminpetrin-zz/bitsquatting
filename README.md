@@ -150,5 +150,5 @@ Final thoughts
 
 This data shows that single bit errors in domain names continue to take place
 in 2015. In retrospect, the use of an ad network domain was probably poorly
-chosen due to the provenance of ad-blockers. Despite that, with an average
-request once per day there is plenty of interesting data to be observed.
+chosen due to the prevalence of ad-blockers. Despite that, an average of one
+confirmed bitsquatted request per day was observed.
